@@ -18,6 +18,9 @@ $ npm run start:prod
 
 # run dist mimified dist file 
 $ node dist/main.js
+
+#create controller called tasks 
+$ nest generate module tasks
 ```
 
 ## Test
